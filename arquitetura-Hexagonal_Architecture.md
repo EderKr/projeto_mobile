@@ -3,8 +3,7 @@ A ideia central da Hexagonal Architecture é que o núcleo do sistema seja indep
 eles através de "portas" e "adaptadores": \
 -Núcleo (Domínio de Negócio): Representa a lógica de negócios, que deve ser pura, sem referências diretas a tecnologias externas. \
 -Portas: Definem interfaces para as funcionalidades do núcleo, permitindo que diferentes adaptadores (tecnologias externas) se conectem a ele. \
--Adaptadores: São implementações concretas que utilizam as portas para conectar tecnologias externas ao núcleo. Podem ser adaptadores para interface de usuário \
-(UI), banco de dados, sistemas externos, etc.
+-Adaptadores: São implementações concretas que utilizam as portas para conectar tecnologias externas ao núcleo. Podem ser adaptadores para interface de usuário (UI), banco de dados, sistemas externos, etc.
 
 COMO SURGIU \
 A Hexagonal Architecure surgiu porque Alistair Cockburn percebeu que, com o tempo, camadas como a de apresentação ou de persistência acabavam contaminando o
