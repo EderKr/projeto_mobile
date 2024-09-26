@@ -2,7 +2,7 @@ Participantes: \
 Allan Lauzid \
 Éder Kramer
 
-API Escolhida: https://open5e.com
+API Escolhida: [https://open5e.com](https://github.com/open5e/open5e-api)
 
 Link para protótipo: 
 
