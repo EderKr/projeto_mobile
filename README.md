@@ -7,10 +7,10 @@ API Escolhida: https://open5e.com
 Link para protótipo: 
 
 Requisito 1: Listagem de Criaturas \
-O aplicativo deve permitir que os usuários pesquisem e visualizem uma lista de criaturas disponíveis na API Open5e, filtrando por nível de desafio (CR), tipo de criatura, ou ambiente.
+O aplicativo deve permitir que os usuários pesquisem e visualizem uma lista de criaturas disponíveis na API Open5e, filtrando por nível de desafio (CR), tipo de criatura, média pontos de vida (HP), ou tamanho.
 
 Requisito 2: Consulta de Feitiços \
-O aplicativo deve permitir que os usuários consultem feitiços, podendo buscar por nome, nível de magia, classe ou componentes necessários. 
+O aplicativo deve permitir que os usuários consultem feitiços, podendo buscar por nome, nível de magia, classe, escola de magia ou componentes necessários. 
 
 Requisito 3: Detalhamento de Itens Mágicos \
 O aplicativo deve oferecer uma seção para visualização de itens mágicos, com detalhes completos como raridade, efeitos, e descrição.
