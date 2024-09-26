@@ -1,5 +1,6 @@
 Participantes: \
-Éder Kramer Souto Borba
+Allan Lauzid \
+Éder Kramer
 
 API Escolhida: https://open5e.com
 
