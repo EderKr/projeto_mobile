@@ -6,7 +6,7 @@ API Escolhida: [Open5e](https://github.com/open5e/open5e-api)
 
 [Protótipo no Figma](https://www.figma.com/proto/vT8cJnQVCxHsdKcP3O9WPw/Open5e-App?node-id=0-1&t=EiLH7RtaylrS5k5B-1)
 
-Requisitos: Os métodos utilizados serão Retofit para chamadas da Api nos Requisitos 2 a 4, Room para armazenamento offline no Requisito 5 e ViewModel + LiveData para gerenciar dados de forma eficiente. \
+Requisitos: Os métodos utilizados serão Retofit para chamadas da Api nos Requisitos 2 a 4, Room para armazenamento offline no Requisito 5 e ViewModel + LiveData para gerenciar dados de forma eficiente.
 
 Requisito 1: Telas Básicas \
 Criar as seguintes telas: \
