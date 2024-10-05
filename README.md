@@ -2,6 +2,8 @@ Participantes: \
 Allan Lauzid \
 Éder Kramer
 
+Link apresentação da arquitetura: https://youtu.be/zPeTYhETaiM
+
 API Escolhida: [Open5e](https://github.com/open5e/open5e-api)
 
 [Protótipo no Figma](https://www.figma.com/proto/vT8cJnQVCxHsdKcP3O9WPw/Open5e-App?node-id=0-1&t=EiLH7RtaylrS5k5B-1)
