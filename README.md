@@ -1,6 +1,8 @@
 Participantes: \
 Allan Lauzid \
-Éder Kramer
+Éder Kramer \
+Giovani Lima \ 
+Leonardo Frye
 
 Link apresentação da arquitetura: https://youtu.be/zPeTYhETaiM
 
